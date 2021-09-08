@@ -25,7 +25,7 @@ function InfoSection({
   headline,
   lightText,
   topLine,
-
+  img,
   alt,
   start,
 }) {
